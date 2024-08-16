@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "@kenzworld/pwa-test-12",
-  "version": "0.1.26",
+  "name": "@kenz/pwa-test-13",
+  "version": "0.1.29",
   "repository": "https://github.com/quangtuyen88/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
